@@ -1,32 +1,31 @@
-# Ajans Is Takip Uygulaması
-Ajanslar ve freelance çalışanlar için vue.js ile geliştirdiğim iş takip uygulaması. Projenin tamam vue.js ile yazılmıştır. Vuetify componentleri kullanılmıştır.
+# Öğrenci Takip Uygulaması
+Öğrenciler için vue.js ile geliştirdiğim Öğrenci takip uygulaması. Projenin tamam vue.js ile yazılmıştır.
 
-Örnek web site: https://ajans-is-takip.firebaseapp.com
 
-## Project setup
+## Proje Kurulumu
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Geliştirme için derlemeler ve yeniden yüklemeler
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Üretim için derlemeler
 ```
 npm run build
 ```
 
-### Run your tests
+### Çalışmayı test etme
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### düzeltme dosyaları
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### yapılandırmayı özelleştirme
+Kaynak [Configuration Reference](https://cli.vuejs.org/config/).
